@@ -1,0 +1,5 @@
+the arduino main code is found in solar_car_backend_NEW
+the webpage html is the main.html
+the server code is the server.js
+
+to start we need node ./server.js and will open a localhost webpage at port 3000
